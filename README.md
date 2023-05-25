@@ -16,7 +16,7 @@
  {Isomnia, MongoDB compass}
  ```
 
-# Screenshorts of the Web Website
+# Screenshorts of the Website
 ![image](https://github.com/ReejoJoseph1244/Hotel-Booking-App/assets/92742868/fb17d6d9-3cc5-42ef-9e41-8144236a1c82)
 
 ![image](https://github.com/ReejoJoseph1244/Hotel-Booking-App/assets/92742868/c6cd6e25-efc5-4910-aeff-bcc7b50185e1)

@@ -1,5 +1,5 @@
 ﻿# Hotel-Booking-App
- This is a Hotel Room Reservation Portal made using MERN stack . This portal came be used to book rooms in different hotels available in different cities
+ This is a Hotel Room Reservation Portal made using MERN stack . This portal can be used to book rooms in different hotels available in different cities
  
  # Tech Stacks
  ```
@@ -11,7 +11,7 @@
  {Json webtoken(JWT), context API, bcrypt, cookie-parser, nodemon, moongose, cors, axios, react-router-dom}
  ```
  
- #Applications Used
+ # Applications Used
  ```
  {Isomnia, MongoDB compass}
  ```
@@ -32,4 +32,4 @@ Step 3: Selecting a Hotel , The list of hotels fetched from the database and dis
 Step 4: Reserving a Room , After selection of the Hotel click on the hotel , a reservation page open with few description of the hotel and the option to book it. Click on Reserve or Book Now! . And select the Room of your Choice.
 ![image](https://github.com/ReejoJoseph1244/Hotel-Booking-App/assets/92742868/f4610d0c-5de6-4d81-a73d-22221e69f8d8)
 
-# Hurah! You have finally booked the Room now the same room for the same day won't  be available or shown to other for booking.
+# Hurah! You have finally booked the Room now the same room for the same day won't  be available or shown to others for booking.
